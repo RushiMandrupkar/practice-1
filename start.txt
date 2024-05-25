@@ -2,3 +2,6 @@ First commit in git
 
 
 adding new text 
+
+
+trying from file explorer
